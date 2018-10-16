@@ -1,0 +1,12 @@
+aPackageInfo = [
+	:name 		= "The First Package",
+	:description	= "Our first package using the RingPM",
+	:folder		= "first"
+	:developer  	= "Mahmoud Fayed",
+	:email		= "msfclipper@yahoo.com",
+	:license	= "MIT License",
+	:version	= "1.0.0",
+	:files 		= [
+		"test.ring"
+	]
+]
