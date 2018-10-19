@@ -8,6 +8,7 @@ aPackageInfo = [
 	:version	= "1.0.0",
 	:ringversion	= "1.8",
 	:files 		= [
-		"test.ring"
+		"test.ring",
+		"sub1/sub.ring"
 	]
 ]
