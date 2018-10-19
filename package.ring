@@ -6,6 +6,7 @@ aPackageInfo = [
 	:email		= "msfclipper@yahoo.com",
 	:license	= "MIT License",
 	:version	= "1.0.0",
+	:ringversion	= "1.10",
 	:files 		= [
 		"test.ring"
 	]
